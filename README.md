@@ -3,7 +3,7 @@
 Site institucional da HR FER, com catálogo de pregos e arames, calibrador de bitolas, calculadora de cerca e cotação direto no WhatsApp.
 
 ## Publicação
-Hospedado no GitHub Pages (branch `main`, pasta raiz): https://gabrielf021.github.io/site-hfer/
+Hospedado no GitHub Pages (branch `main`, pasta raiz): https://gabrielf021.github.io/Site-Hfer/
 
 ## Como trocar o WhatsApp e o e-mail
 No `index.html`, procure por `CONFIG` e altere:
